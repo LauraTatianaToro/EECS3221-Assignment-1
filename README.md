@@ -6,5 +6,5 @@ send a signal round and round cnt times.
 The program is invoked with
 ./ring N leader cnt
 
-Processes are created using  fork-exec adn SIGUSR1 to send signals.
+Processes are created using  fork-exec and SIGUSR1 to send signals.
 
