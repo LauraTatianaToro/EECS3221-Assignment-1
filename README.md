@@ -1,7 +1,7 @@
 # Ring of N processess 
 
-TOOLS USED: ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=visual-studio-code&logoColor=whit)
+TOOLS USED: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 A simple program called ring that creates a ring of N processes that
 send a signal round and round cnt times. 
